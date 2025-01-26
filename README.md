@@ -40,5 +40,5 @@ This repository contains the code and implementation for:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/automatic-plowing-machine.git
-   cd automatic-plowing-machine
+   git clone https://github.com/kavindu26589/Automatic_Plowing_Machine.git
+   cd Automatic_Plowing_Machine
